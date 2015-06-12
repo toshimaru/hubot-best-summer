@@ -1,0 +1,27 @@
+{
+  "name": "hubot-best-summer",
+  "version": "0.0.1",
+  "description": "最高の夏にしようぜ!!!",
+  "main": "index.coffee",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/toshimaru/hubot-best-summer.git"
+  },
+  "keywords": [
+    "hubot",
+    "hubot-scripts",
+    "best-summer",
+    "最高の夏"
+  ],
+  "author": "toshimaru",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/toshimaru/hubot-best-summer/issues"
+  },
+  "homepage": "https://github.com/toshimaru/hubot-best-summer",
+  "dependencies": {
+  }
+}
